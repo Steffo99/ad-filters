@@ -1,0 +1,12 @@
+! Hide reddit redesign optin
+www.reddit.com##.redesign-beta-optin
+
+! Hide Wikia
+wikia.com###globalNavigation
+
+! Hide OpenDota Ads
+opendota.com##.kJgvum
+opendota.com##a[href^="https://dotacoach.org/Hire/OpenDota"]
+opendota.com##a[href^="https://pvgna.com/"]
+opendota.com##a[href^="//dotacoach.org/Hire/OpenDota"]
+opendota.com##a[href^="https://glhf.rivalry.gg/get-started-dota/"]
