@@ -16,9 +16,9 @@ opendota.com##a[href^="https://moremmr.com?utm_source=opendota&utm_medium=matche
 tvtropes.org##.fc-pinned-message-container
 
 ! Allow selection in YouMath
-www.youmath.it##body:style(-webkit-touch-callout: all!important)
-www.youmath.it##body:style(-webkit-user-select: all!important)
-www.youmath.it##body:style(-khtml-user-select: all!important)
-www.youmath.it##body:style(-moz-user-select: all!important)
-www.youmath.it##body:style(-ms-user-select: all!important)
-www.youmath.it##body:style(user-select: all!important)
+www.youmath.it##body:style(-webkit-touch-callout: text!important)
+www.youmath.it##body:style(-webkit-user-select: text!important)
+www.youmath.it##body:style(-khtml-user-select: text!important)
+www.youmath.it##body:style(-moz-user-select: text!important)
+www.youmath.it##body:style(-ms-user-select: text!important)
+www.youmath.it##body:style(user-select: text!important)
