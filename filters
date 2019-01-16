@@ -11,7 +11,14 @@ opendota.com##a[href^="//dotacoach.org/Hire/OpenDota"]
 opendota.com##a[href^="https://glhf.rivalry.gg/get-started-dota/"]
 opendota.com##a[href^="http://www.vpgame.com/?lang=en_us"]
 opendota.com##a[href^="https://moremmr.com?utm_source=opendota&utm_medium=matches&utm_campaign=button"]
-opendota.com##div[style="font-size: 12px;"]
 
 ! Hide TVTropes page counter banner
 tvtropes.org##.fc-pinned-message-container
+
+! Allow selection in YouMath
+www.youmath.it#$#p{-webkit-touch-callout: all;}
+www.youmath.it#$#p{-webkit-user-select: all;}
+www.youmath.it#$#p{-khtml-user-select: all;}
+www.youmath.it#$#p{-moz-user-select: all;}
+www.youmath.it#$#p{-ms-user-select: all;}
+www.youmath.it#$#p{user-select: all;}
